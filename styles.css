@@ -1,3 +1,24 @@
-body {
-    background-color: red;
+/* Resets */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Main Styles */
+
+.main-container {
+    width: 60%;
+}
+
+/* Header Styles */
+
+.header-left {
+    display: inline-block;
+    width: 65%;
+}
+
+.header-right {
+    display: inline-block;
+    width: 30%;
 }

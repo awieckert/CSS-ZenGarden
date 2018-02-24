@@ -1,2 +1,14 @@
+/* Main Container Styles */
+.main-container {
+    width: 60%;
+}
 
+/* Header Styles */
 
+.img-left {
+    object-fit: fill;
+}
+
+.img-right {
+    object-fit: fill;
+}

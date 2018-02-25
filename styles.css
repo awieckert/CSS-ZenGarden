@@ -6,9 +6,8 @@
 /* Header Styles */
 
 .img-left {
-    object-fit: fill;
+    object-fit: cover;
+    object-position: 0 0;
 }
 
-.img-right {
-    object-fit: fill;
-}
+

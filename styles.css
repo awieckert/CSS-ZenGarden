@@ -1,0 +1,85 @@
+/* Main Container Styles */
+.main-container {
+    width: 60%;
+}
+
+/* Header Styles */
+.main-header {
+    position: relative;
+}
+
+img {
+    max-height: 280px;
+    width: 100%;
+    margin-left: -21.5px;
+}
+
+/* Column styles */
+
+.column-left {
+    background-color: rgba(71, 139, 71, 0.89);
+}
+
+.column-right {
+    background-color: rgb(56, 118, 199);
+    border-left: 4px solid white;
+    color: white;
+}
+
+.column-right span {
+    color: rgb(224, 224, 24);
+}
+
+article h3 {
+    color: rgb(224, 224, 24);
+    text-decoration: underline;
+    margin-left: 0.7em;
+}
+
+article p {
+    margin-left: 1.2em;
+}
+
+nav ul li {
+    background-color: rgb(85, 145, 223);
+    margin-bottom: 0.2em;
+    text-align: left;
+    list-style-type: none;
+}
+
+nav ul li:hover {
+    background-color: rgb(31, 103, 197);
+    color: white;
+}
+
+nav ul {
+    padding-left: 0;
+}
+
+nav a {
+    color: rgb(42, 99, 255);
+}
+
+
+/* Footer Styles */
+
+.main-footer {
+    position: absolute;
+    top: 0px;
+    right: 600px;
+   
+}
+
+.main-footer ul li {
+    list-style-type: none;
+   
+}
+
+
+.main-footer ul li a {
+    color: rgb(224, 224, 24);
+    text-decoration: underline;
+}
+
+
+
